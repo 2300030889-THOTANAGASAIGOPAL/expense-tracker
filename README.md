@@ -27,9 +27,6 @@ PDF Export: iTextPDF (or similar)
 
 📂 GitHub integrated with frequent commits
 
-📸 Screenshots
-(You can add screenshots here of your login page, dashboard, PDF export, etc.)
-
 ⚙️ Getting Started
 1. Clone the Repository
 bash
@@ -71,20 +68,12 @@ Copy
 Edit
 project-root/
 │
-├── backend/             # Spring Boot app
+├── backend/            
+# Spring Boot app
 │   ├── src/main/java/…
 │   └── resources/
 │
-├── frontend/            # React (Vite) app
+├── frontend/            
+# React (Vite) app
 │   ├── src/
 │   └── public/
-✅ To Do
- Authentication
-
- Email verification
-
- PDF export
-
- Graphs and charts (future)
-
- Mobile responsive design (future)
