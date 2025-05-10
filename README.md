@@ -35,7 +35,7 @@ PDF Export: iTextPDF (or similar)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/2300030889-THOTANAGASAIGOPAL/expense-tracker.git
 2. Backend Setup (Spring Boot)
 Open in Eclipse or IntelliJ
 
